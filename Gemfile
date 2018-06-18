@@ -42,3 +42,4 @@ gem 'bourbon', '~> 5.0', '>= 5.0.1'
 gem 'pundit', '~> 1.1'
 gem 'puma', '~> 3.11', '>= 3.11.4'
 gem 'twilio', '~> 3.1', '>= 3.1.1'
+gem 'dotenv-rails', '~> 2.4', :groups => [:development, :test]
