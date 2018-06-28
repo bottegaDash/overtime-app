@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.4.1'
-
 gem 'rails', '~> 5.2.0'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'sass-rails', '~> 5.0'
@@ -44,3 +42,5 @@ gem 'puma', '~> 3.11', '>= 3.11.4'
 gem 'twilio-ruby', '~> 5.10', '>= 5.10.4'
 gem 'dotenv-rails', '~> 2.4', :groups => [:development, :test]
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
+
+ruby "2.4.0"
