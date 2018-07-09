@@ -16,6 +16,15 @@
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 - Need to update for when confirmed
+- Need to update
+- Update buttons on employees homepage so they show on mobile
+- Update buttons to include timespan
+- Update button sort order on employee homepage
+- Remove unnecessary nav bar buttons for managers
+- Fix admin dashboard bug
+- Implement Honeybager error reporter
+- Implement new relic for keeping site alive
+
 
 ## TODOS:
 ##
