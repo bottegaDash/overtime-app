@@ -21,10 +21,9 @@
 - x Update buttons to include timespan
 - x Update button sort order on employee homepage
 - x Remove unnecessary nav bar buttons for managers
-- Fix admin dashboard bug
+- x Fix admin dashboard bug
 - Implement Honeybager error reporter
 - Implement new relic for keeping site alive
 
 
 ## TODOS:
-##
